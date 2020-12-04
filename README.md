@@ -1,1 +1,1 @@
-# SVD-image-processing
+# SVD-image-compression
